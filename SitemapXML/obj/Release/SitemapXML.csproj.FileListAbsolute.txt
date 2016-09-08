@@ -1,0 +1,6 @@
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Release\SitemapXML.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Release\SitemapXML.pdb
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Release\SitemapXML.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Release\SitemapXML.pdb
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Release\Sitecore.Kernel.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Release\SitemapXML.csprojResolveAssemblyReference.cache

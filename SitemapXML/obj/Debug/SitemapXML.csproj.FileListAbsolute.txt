@@ -1,0 +1,10 @@
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\SitemapXML.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\SitemapXML.pdb
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\Sitecore.Kernel.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\Lucene.Net.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\Sitecore.Logging.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\Sitecore.NVelocity.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\bin\Debug\Newtonsoft.Json.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Debug\SitemapXML.dll
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Debug\SitemapXML.pdb
+C:\My Files\Temp\SitemapXML\SitemapXML\SitemapXML\obj\Debug\SitemapXML.csprojResolveAssemblyReference.cache
