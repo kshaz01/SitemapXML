@@ -48,8 +48,8 @@ namespace SitemapXML
                 this._Writer.WriteStartElement("url");
     
                 string text = LinkManager.GetItemUrl(item, this._UrlOptions);
-                
-                if (text.IndexOf("http://") <= -1)
+
+                if (text.IndexOf("http://") <= -1 || text.IndexOf("https://") <= -1)
                 {
                     text = text.Replace("://", "http://");
                 }
